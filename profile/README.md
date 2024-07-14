@@ -6,3 +6,9 @@ STEW : 대학 제휴업체를 어디에서나!
 | :-----: | :-----: | :-----: | :-----: |
 | [황채웅](https://github.com/woongaaaa) | [최원석](https://github.com/rudeore-098)  | [박서은](https://github.com/1PSE) | [양예원](https://github.com/yewonyang) |
 
+### SoftWare Architecture
+#### ⋆｡✧˚⋆ iOS ⋆｡✧˚⋆ 
+<img src="https://github.com/user-attachments/assets/4713988c-97f7-4470-b49e-19254a5ce550" width = 80%>
+
+#### ⋆｡✧˚⋆ Web ⋆｡✧˚⋆ 
+<img src="https://github.com/user-attachments/assets/453afbfe-09fd-4367-9e09-d745fac5449c" width = 80%>
